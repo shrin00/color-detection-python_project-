@@ -7,5 +7,5 @@ modules used are:
  3.argparse
  4.pandas
  
- note:please make sure that you have installed all this module in project interpreter before ex aecuting the code 
+ note:please make sure that you have installed all this module in project interpreter before exaecuting the code 
  and also make sure that you have to save color.csv file in the project path or change the path in code. Open the code in terminal and give the command "python color.py -i colorpic.jpg" where color.py is the file name and colorpic.jpg is image.
